@@ -2,7 +2,7 @@
 
 <h3>My name is Josh Hittie</h3>
 
-<p>I'm a striving full stack web developer currently using the following:</p>
+<p>I'm a web developer currently using the following:</p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-%23087ea4?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
